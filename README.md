@@ -1,1 +1,1 @@
-# M1_Projectgoal_App
+# M1_Hotel Management System_App
